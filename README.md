@@ -1,2 +1,1 @@
-# castle-of-mine
-Just beginning.
+Just beginning to learn.
